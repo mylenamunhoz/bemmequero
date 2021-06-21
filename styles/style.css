@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(226, 241, 235);
+}
+
+:root {
+}
+
+#header {
+  height: 4.5rem;
+  color: rgba(71, 119, 88, 0.568)
+}
